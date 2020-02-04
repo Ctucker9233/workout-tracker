@@ -382,6 +382,7 @@ form > button {
 
 .mt {
   margin-top: 20px;
+  height: 200px;
 }
 
 .workout .ui.card {
@@ -405,6 +406,10 @@ form > button {
 
 .ui.card h2 {
   padding: 10px;
+}
+
+#canvas {
+  height: 100%;
 }
 
 .buttons .ui.button:first-child {
