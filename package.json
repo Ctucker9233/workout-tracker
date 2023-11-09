@@ -16,7 +16,7 @@
     "express": "^4.16.3",
     "mongo-seeding": "^3.4.0-alpha.1",
     "mongojs": "^3.1.0",
-    "mongoose": "^5.3.16",
+    "mongoose": "^5.13.21",
     "morgan": "^1.9.1"
   }
 }
